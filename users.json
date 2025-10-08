@@ -1,0 +1,11 @@
+{
+  "alice": {
+    "password": "password123"
+  },
+  "bob": {
+    "password": "qwerty"
+  },
+  "admin": {
+    "password": "pbkdf2:sha256:1000000$b9cGu3ri9giioqzO$932d09322c6c61c038e496100a58c58265564e1b8d36e9e7af86d373ca712aa5"
+  }
+}
